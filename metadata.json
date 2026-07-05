@@ -1,0 +1,6 @@
+{
+  "name": "APPLO",
+  "description": "APPLO - Pantau Progress Tanpa Jeda. Aplikasi laporan progress lapangan proyek real-time dengan fitur upload foto dan notifikasi update otomatis untuk manajemen.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
